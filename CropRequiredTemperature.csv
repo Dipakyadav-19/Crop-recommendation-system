@@ -1,0 +1,13 @@
+Crop,min_temp,max_temp,min_rainfall,max_rainfall
+Sugarcane,25,35,100,170
+Cotton,20,28,55,120
+Coffee,20,31,100,200
+Rice,16,27,100,200
+Jowar,24,32,37,90
+Bajra,20,28,40,75
+Moong,25,25,78,100
+Maize,18,27,45,100
+Wheat,14,25,47,103
+Groundnut,21,30,40,125
+Sunflower,20,35,40,70
+
