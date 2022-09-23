@@ -10,7 +10,7 @@ The system uses the area, the rainfall and the standard value of soil where the 
 
 
 
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+<img src="https://github.com/Dipakyadav-19/Crop-recommendation-system/blob/master/Image/rainfall.png" alt="Alt text" title="Optional title">
 
 
 
