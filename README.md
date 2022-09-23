@@ -10,6 +10,7 @@ The system uses the area, the rainfall and the standard value of soil where the 
 
 
 
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
 
 
 
