@@ -10,7 +10,6 @@ The system uses the area, the rainfall and the standard value of soil where the 
 
 
 
-<img src="https://github.com/Dipakyadav-19/Crop-recommendation-system/blob/master/Image/rainfall.png" alt="Alt text" title="Optional title">
 
 
 
@@ -25,7 +24,8 @@ The system uses the area, the rainfall and the standard value of soil where the 
 
 
 B.	Flowchart 
- 
+ <img src="https://github.com/Dipakyadav-19/Crop-recommendation-system/blob/master/Image/Flowchart.jpg" alt="Alt text" title="Optional title">
+
 C.	Code flow
 First the PH data for required district was retrieved from District pH data. System then compares the PH data for selected district with the PH data for all the crops. Crops requiring pH less than minimum pH of city and maximum PH greater than maximum PH for the city was shortlisted and stored in result 1.  
 Then the rainfall was taken into consideration.  Mean rainfall for selected district was calculated and crops with minimum required rainfall less than mean rainfall for given district and maximum rainfall greater than mean rainfall were shortlisted and stored in result 2. The density plot for rainfall of selected city is displayed. 
@@ -41,13 +41,15 @@ The console output for district Ahmednagar is given below:
  
 As given in the output screenshot predicted crop is Cotton and expected yield is 11.59 per unit of area.  The graphs displayed as follows:
 1.	This graph gives density plot of annual rainfall of selected city(Ahmednagar).
- 
+ <img src="https://github.com/Dipakyadav-19/Crop-recommendation-system/blob/master/Image/rainfall.png" alt="Alt text" title="Optional title">
+
 2.	This graph shows the Area vs Production for recommended crop.
  
-
+<img src="https://github.com/Dipakyadav-19/Crop-recommendation-system/blob/master/Image/cotton.png" alt="Alt text" title="Optional title">
 
 3.	This graph shows the Year vs Production for recommended crop.
- 
+ <img src="https://github.com/Dipakyadav-19/Crop-recommendation-system/blob/master/Image/cotton.png" alt="Alt text" title="Optional title">
+
  
 The following main results were obtained:
 1.The analysis of rainfall and temperature area wise helps us determine the most suitable range required for different crops.
@@ -61,16 +63,5 @@ In future, this project work may be extended by applying different prediction te
 
 VI.	CONCLUSION
 The proposed machine recommends crops to the farmers and predicts the yield of the crops. The main factors are Rainfall, PH and production over years at that place. The factors taken into consideration are diversified in such way that the results can be relied on to a large extent. Further the graphs of production displayed also give idea of how the crop has performed over years and how much area can we allocate to a particular crop to get best yield out of it.
-
-VII.	REFERENCES
-1.	Tanmay Banavlikar, Aqsa Mahir, Mayuresh Budhukh, Soham Dhodapkar, “Crop recommendation system using neural networks”, IRJET, May 2018, pp 1475-1480.
-2.	Devdatta A. Bondre, Mr. Santosh Mahagaonkar “Prediction  of crop yield and fertilizer recommendation using machine learning algorithm”, IJEAST, September 2019, pp 371-376.
-3.	Deepti Dighe, Harshada Joshi, Aishwarya Katkar, Sneha Patil , Prof. Shrikant Kokate  “Survey of Crop Recommendation Systems”, IRJET, Nov 2018, pp 476-481.
-4.	Pradeepa Bandara, Thilini Weerasooriya, Ruchirawya T.H., W.J.M. Nanayakkara, Dimantha M.A.C, Pabasara M.G.P “Crop recommendation system”, IJCA, Oct 2020, pp 22-25.
-5.	Jacqueline Konaté  , Amadou G. Diarra, Seydina O. Diarra  and Aminata Diallo , “SyrAgri: A Recommender System for Agriculture in Mali”, MDPI, November 2020, pp 1-24.
-6.	Rohit Kumar Rajak, Ankit Pawar, Mitalee Pendke, Pooja Shinde, Suresh Rathod, Avinash Devare “Crop Recommendation System to Maximize Crop Yield using Machine Learning Technique”,  IRJET, Dec 2017, pp 950-953.
-7.	Nischitha K, Dhanush Vishwakarma, Mahendra N, Ashwini, Manjuraju M.R “Crop Prediction using Machine Learning Approaches”, IJERT, August 2020, pp 23-26.
-8.	Dr.A.K.Mariappan, MsC.Madhumitha, MsP.Nishitha, MsS.Nivedhitha “Crop Recommendation System through Soil Analysis Using Classification in Machine Learning”,  IJAST, Nov 2020, pp 12738-12747.
-
 
   
