@@ -11,18 +11,6 @@ The system uses the area, the rainfall and the standard value of soil where the 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 B.	Flowchart 
  <img src="https://github.com/Dipakyadav-19/Crop-recommendation-system/blob/master/Image/Flowchart.jpg" alt="Alt text" title="Optional title">
 
@@ -45,7 +33,7 @@ As given in the output screenshot predicted crop is Cotton and expected yield is
 
 2.	This graph shows the Area vs Production for recommended crop.
  
-<img src="https://github.com/Dipakyadav-19/Crop-recommendation-system/blob/master/Image/cotton.png" alt="Alt text" title="Optional title">
+<img src="https://github.com/Dipakyadav-19/Crop-recommendation-system/blob/master/Image/production.png" alt="Alt text" title="Optional title">
 
 3.	This graph shows the Year vs Production for recommended crop.
  <img src="https://github.com/Dipakyadav-19/Crop-recommendation-system/blob/master/Image/cotton.png" alt="Alt text" title="Optional title">
