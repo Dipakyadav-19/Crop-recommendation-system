@@ -23,7 +23,7 @@ print(subval1)
 
 
 result1 <- subset(data2,data2$pH_Req <= subval1$pH_min & data2$pH_max_Range >= subval1$pH_max, select = c("Crop"))
-
+ 
 par(mfrow=c(2, 3))
 
 boxplot(data1$pH_max, main="Max_pH", sub=paste("Outlier rows: ", boxplot.stats(data1$pH_max)$out)) 
